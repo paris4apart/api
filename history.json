@@ -1,23 +1,16 @@
 [
- {
-   "title":"Altyapi Bakimi",
-  "description":"Turk Telekom ekipleri tarafindan dosendikten sonra acikta birakilan DSL kablolarinin hasar gormemesi icin cimento ile kapatilmasi ve yeni DSL kablolarinin bina icine kadar cekilmesi",
-  "photos":["https://cdn.yenicaggazetesi.com.tr/news/2022/01/190120221424002254396.jpg","https://cdn.yenicaggazetesi.com.tr/news/2022/01/190120221424002254396.jpg"],
-  "price":60,
-  "date":{
-    "day":17,
-    "month":"Temmuz",
-    "year":2024
-  },
-   {
-   "title":"Altyapi Bakimi",
-  "description":"Turk Telekom ekipleri tarafindan dosendikten sonra acikta birakilan DSL kablolarinin hasar gormemesi icin cimento ile kapatilmasi ve yeni DSL kablolarinin bina icine kadar cekilmesi",
-  "photos":["https://cdn.yenicaggazetesi.com.tr/news/2022/01/190120221424002254396.jpg","https://cdn.yenicaggazetesi.com.tr/news/2022/01/190120221424002254396.jpg"],
-  "price":60,
-  "date":{
-    "day":17,
-    "month":"Temmuz",
-    "year":2024
+  {
+    "title": "Altyapi Bakimi",
+    "description": "Turk Telekom ekipleri tarafindan dosendikten sonra acikta birakilan DSL kablolarinin hasar gormemesi icin cimento ile kapatilmasi ve yeni DSL kablolarinin bina icine kadar cekilmesi",
+    "photos": [
+      "https://cdn.yenicaggazetesi.com.tr/news/2022/01/190120221424002254396.jpg",
+      "https://cdn.yenicaggazetesi.com.tr/news/2022/01/190120221424002254396.jpg"
+    ],
+    "price": 60,
+    "date": {
+      "day": 17,
+      "month": "Temmuz",
+      "year": 2024
+    }
   }
-  
 ]
