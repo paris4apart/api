@@ -1,8 +1,14 @@
-{
-
-"total":3000,
-"people":[
-
+[
+  {
+    "no":1,
+    "firstName":"Salih",
+    "lastName":"Altug",
+    "wallet":250
+  },
+   {
+    "no":2,
+    "firstName":"Abdullah",
+    "lastName":"Catli",
+    "wallet":250
+  }
 ]
-
-}
