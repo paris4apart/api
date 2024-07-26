@@ -1,27 +1,13 @@
 [
     {
-        "title": "Elektrik Faturasi",
-        "description": "",
+        "title": "Altyapı bakımı",
+        "description": "Turk Telekom ekipleri tarafindan binamızın internet kablolarındaki arızalar giderildikten sonra açıkta bırakılan internet kablolarinin hasar gormemesi için 1 torba çimento (60₺x15kg) alındı ve kabloların üzerine uygulandı.",
         "photos": [
-            "https://cdn.yenicaggazetesi.com.tr/news/2022/01/190120221424002254396.jpg"
-        ],
-        "price": 135,
-        "date": {
-            "day": 24,
-            "month": "Temmuz",
-            "year": 2024
-        }
-    },
-    {
-        "title": "Altyapi Bakimi",
-        "description": "Turk Telekom ekipleri tarafindan dosendikten sonra acikta birakilan DSL kablolarinin hasar gormemesi icin cimento ile kapatilmasi ve yeni DSL kablolarinin bina icine kadar cekilmesi",
-        "photos": [
-            "https://files.sikayetvar.com/complaint/2779/27795968/turk-telekom-internet-ankastre-kutusunu-degistirmiyor-1.jpg",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIOhZLQUc9Azarjd_vk4w_zSSUbCf4qV2o8w&s"
+
         ],
         "price": 60,
         "date": {
-            "day": 17,
+            "day": 26,
             "month": "Temmuz",
             "year": 2024
         }
